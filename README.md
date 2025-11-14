@@ -110,7 +110,7 @@ git --version
 
 ```bash
 # Clonar usando HTTPS
-git clone https://github.com/AndresAyalaS/simpsons-app.git
+git clone https://github.com/AndresAyalaS/simpsons-app
 
 # Navegar al directorio del proyecto
 cd simpsons-app
